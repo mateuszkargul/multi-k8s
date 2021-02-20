@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6dd23db7-e5a0-4774-bc6f-d60f26da7152" name="Default Changelist" comment="latest changes">
+      <change afterPath="$PROJECT_DIR$/.travis.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deploy.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-account.json.enc" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="KubernetesApiPersistence">
+    <option name="context" value="minikube" />
+    <option name="namespace" value="default" />
+  </component>
+  <component name="ProjectId" id="1mf3rrYqR0q8Uy78qTWRQSJlbb2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/nginx" />
+      <recent name="$PROJECT_DIR$/server" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6dd23db7-e5a0-4774-bc6f-d60f26da7152" name="Default Changelist" comment="" />
+      <created>1609871019787</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609871019787</updated>
+      <workItem from="1609871020856" duration="3249000" />
+      <workItem from="1609882021728" duration="34000" />
+      <workItem from="1609958005086" duration="4407000" />
+      <workItem from="1610046502884" duration="2714000" />
+      <workItem from="1610096385548" duration="46000" />
+      <workItem from="1610133072707" duration="2148000" />
+      <workItem from="1610355234658" duration="618000" />
+      <workItem from="1610389746919" duration="2945000" />
+      <workItem from="1610441922904" duration="341000" />
+      <workItem from="1610478689259" duration="3618000" />
+      <workItem from="1610528185432" duration="119000" />
+      <workItem from="1610558839087" duration="4633000" />
+      <workItem from="1610645712913" duration="1233000" />
+      <workItem from="1610701137723" duration="640000" />
+      <workItem from="1610732433082" duration="4137000" />
+      <workItem from="1610960223733" duration="11000" />
+      <workItem from="1611860078257" duration="517000" />
+      <workItem from="1612016501328" duration="2178000" />
+      <workItem from="1612169864290" duration="23000" />
+      <workItem from="1612291663153" duration="211000" />
+      <workItem from="1612295647633" duration="2419000" />
+      <workItem from="1612343918569" duration="12000" />
+      <workItem from="1612373829223" duration="1591000" />
+      <workItem from="1612429577127" duration="98000" />
+      <workItem from="1612445196537" duration="1375000" />
+      <workItem from="1612545899730" duration="611000" />
+      <workItem from="1612803499864" duration="3106000" />
+      <workItem from="1612861447219" duration="135000" />
+      <workItem from="1612873423015" duration="2333000" />
+      <workItem from="1612962430883" duration="1402000" />
+      <workItem from="1613157014414" duration="1894000" />
+      <workItem from="1613583460321" duration="1772000" />
+      <workItem from="1613638865062" duration="23000" />
+      <workItem from="1613671988351" duration="3925000" />
+      <workItem from="1613679036228" duration="41000" />
+      <workItem from="1613726402958" duration="39000" />
+      <workItem from="1613755555774" duration="644000" />
+      <workItem from="1613824009021" duration="5159000" />
+    </task>
+    <task id="LOCAL-00001" summary="travis update">
+      <created>1610570483410</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610570483410</updated>
+    </task>
+    <task id="LOCAL-00002" summary="travis deploy section and AWS containers json">
+      <created>1610735796300</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1610735796300</updated>
+    </task>
+    <task id="LOCAL-00003" summary="travis deploy section and AWS containers json">
+      <created>1610736103896</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1610736103896</updated>
+    </task>
+    <task id="LOCAL-00004" summary="travis deploy section and AWS containers json">
+      <created>1610736861845</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1610736861845</updated>
+    </task>
+    <task id="LOCAL-00005" summary="travis deploy section and AWS containers json">
+      <created>1612445911680</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1612445911681</updated>
+    </task>
+    <task id="LOCAL-00006" summary="pvc stuff">
+      <created>1612806300124</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1612806300124</updated>
+    </task>
+    <task id="LOCAL-00007" summary="latest changes">
+      <created>1613584860991</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1613584860991</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="travis update" />
+    <MESSAGE value="travis deploy section and AWS containers json" />
+    <MESSAGE value="pvc stuff" />
+    <MESSAGE value="latest changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="latest changes" />
+  </component>
+</project>
