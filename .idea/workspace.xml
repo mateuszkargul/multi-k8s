@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6dd23db7-e5a0-4774-bc6f-d60f26da7152" name="Default Changelist" comment="latest changes">
-      <change afterPath="$PROJECT_DIR$/.travis.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deploy.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-account.json.enc" afterDir="false" />
-    </list>
+    <list default="true" id="6dd23db7-e5a0-4774-bc6f-d60f26da7152" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -99,7 +95,7 @@
       <workItem from="1613679036228" duration="41000" />
       <workItem from="1613726402958" duration="39000" />
       <workItem from="1613755555774" duration="644000" />
-      <workItem from="1613824009021" duration="5159000" />
+      <workItem from="1613824009021" duration="5461000" />
     </task>
     <task id="LOCAL-00001" summary="travis update">
       <created>1610570483410</created>
@@ -150,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613584860991</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="latest changes">
+      <created>1613857279743</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1613857279743</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
