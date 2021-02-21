@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6dd23db7-e5a0-4774-bc6f-d60f26da7152" name="Default Changelist" comment="latest changes">
+    <list default="true" id="6dd23db7-e5a0-4774-bc6f-d60f26da7152" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-account.json.enc" beforeDir="false" afterPath="$PROJECT_DIR$/service-account.json.enc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +100,7 @@
       <workItem from="1613726402958" duration="39000" />
       <workItem from="1613755555774" duration="644000" />
       <workItem from="1613824009021" duration="5637000" />
-      <workItem from="1613913104302" duration="4144000" />
+      <workItem from="1613913104302" duration="4961000" />
     </task>
     <task id="LOCAL-00001" summary="travis update">
       <created>1610570483410</created>
@@ -165,7 +165,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613857607412</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="latest changes">
+      <created>1613918082567</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1613918082567</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
